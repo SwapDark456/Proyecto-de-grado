@@ -370,6 +370,7 @@
 				"remove": {
 					"component_groups": [
 						"minecraft:hostile"
+						"minecraft:angry"
 					]
 				}
 			}

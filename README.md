@@ -48,13 +48,13 @@ Diseñar un videojuego en Minecraft que sirva como herramienta educativa en el �
 - [Krita](https://krita.org/es) → Diseño 2D *pixel art* para ítems y texturas.
 
 **Programación**
-- [bridge.v2](https://editor.bridge-core.app) → Uso de JSON (variante de Java nativo para Minecraft) para dar vida a los robots.
+- [bridge.v2](https://editor.bridge-core.app) → Uso de JSON (variante de Java nativo para Minecraft) y C++ para dar vida a los robots.
 
 **Motor Gráfico / Juego Base**
 - [Minecraft](https://www.minecraft.net/es-es/download)
 
 **Construccion De Niveles**
-- [Aternos](https://aternos.org/go)
+- [Aternos](https://aternos.org/go) → Pagina para crear servidores en minecraft la cual permite conctar varias personas para agilizar la creacion de niveles
 
 ---
 
